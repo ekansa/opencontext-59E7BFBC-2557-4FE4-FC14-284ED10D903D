@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="D17257AC-8A9E-40D8-50C9-799EE77B9438" ownedBy="59E7BFBC-2557-4FE4-FC14-284ED10D903D">
+  <arch:name>
+    <arch:string>Context 206</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Context</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/building_space_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_6_ebfdbcce8</oc:source>
+      </oc:obs_metadata>
+      <arch:links>
+        <arch:docID type="person" info="Excavated by">84992341-6ABB-4948-D6A9-FA981AA87B99</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/84992341-6ABB-4948-D6A9-FA981AA87B99" cite="contributor">
+            <oc:name>Suffolk Archaeological Unit</oc:name>
+            <oc:id>84992341-6ABB-4948-D6A9-FA981AA87B99</oc:id>
+            <oc:relation>Excavated by</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Description of specific archaeological contexts is not currently available for this project dataset.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/4A7C4A4A-FC66-411A-CDF4-870D153375F3">
+        <oc:name>United Kingdom</oc:name>
+        <oc:id>4A7C4A4A-FC66-411A-CDF4-870D153375F3</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9180AAFD-9AE6-4795-2D72-3719DCA765BC">
+        <oc:name>Suffolk</oc:name>
+        <oc:id>9180AAFD-9AE6-4795-2D72-3719DCA765BC</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/B3EAA455-B714-49AC-6A7C-63E3B0F211F4">
+        <oc:name>West Stow West</oc:name>
+        <oc:id>B3EAA455-B714-49AC-6A7C-63E3B0F211F4</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/2F0E01D4-6260-4366-B84F-412C5597B943">
+        <oc:name>Bone 1541</oc:name>
+        <oc:id>2F0E01D4-6260-4366-B84F-412C5597B943</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Lower molar</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F8AF4BF9-88CC-4CAC-3B2E-6DEB35AE4960">
+        <oc:name>Bone 1542</oc:name>
+        <oc:id>F8AF4BF9-88CC-4CAC-3B2E-6DEB35AE4960</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Radius</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2862AC02-AEE2-43F8-885E-7288D1DFD228">
+        <oc:name>Bone 1543</oc:name>
+        <oc:id>2862AC02-AEE2-43F8-885E-7288D1DFD228</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bone Frag</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/855FEAA9-79AF-4625-6BAE-0136A7538082">
+        <oc:name>Bone 1544</oc:name>
+        <oc:id>855FEAA9-79AF-4625-6BAE-0136A7538082</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Rib</oc:descriptor>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>West Stow West Zooarchaeology: Context 206 (Context)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-24</dc:date>
+    <dc:subject>West Stow village</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:subject>mammal and bird remains</dc:subject>
+    <dc:subject>economy</dc:subject>
+    <dc:subject>Early Anglo-Saxon</dc:subject>
+    <dc:subject>zooarchaeology</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/84992341-6ABB-4948-D6A9-FA981AA87B99">Suffolk Archaeological Unit</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/4639BA12-CDF5-452E-E9FE-F31543E6B937">Pamela Crabtree</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/D17257AC-8A9E-40D8-50C9-799EE77B9438</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/59E7BFBC-2557-4FE4-FC14-284ED10D903D">West Stow West Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-02-24T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=West+Stow+West+Zooarchaeology%3A+Context+206+%28Context%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=West+Stow+village&amp;rft.subject=subsistence&amp;rft.subject=mammal+and+bird+remains&amp;rft.subject=economy&amp;rft.subject=Early+Anglo-Saxon&amp;rft.subject=zooarchaeology&amp;rft.contributor=Suffolk+Archaeological+Unit&amp;rft.creator=Pamela+Crabtree&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FD17257AC-8A9E-40D8-50C9-799EE77B9438</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>52.302</oc:geo_lat>
+      <oc:geo_long>0.668</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/B3EAA455-B714-49AC-6A7C-63E3B0F211F4">
+        <oc:source_name>West Stow West</oc:source_name>
+        <oc:source_id>B3EAA455-B714-49AC-6A7C-63E3B0F211F4</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-02-25T21:20:23-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/02/25 21:20:23</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="F6D5351F-8E94-48B0-AEAD-0E0BFA6E7D24" ownedBy="59E7BFBC-2557-4FE4-FC14-284ED10D903D">
+  <arch:name>
+    <arch:string>Bone 604</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_6_ebfdbcce8</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>496FC137-47C5-4EEB-4213-2DB20EE18E97</arch:variableID>
+          <arch:valueID>A584F3A8-4C1C-4624-90EC-83D0511D38B6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BE5C602E-CC57-4319-98DF-02F0D919DFEE">BE5C602E-CC57-4319-98DF-02F0D919DFEE</oc:propid>
+          <oc:var_label type="nominal">Species</oc:var_label>
+          <oc:show_val>Sheep; Ovis aries</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F07418DB-C26F-44A1-B67F-3ADD850A05DA</arch:variableID>
+          <arch:valueID>17ED0F13-E592-48B9-A06E-B36860557D24</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/023714A4-0968-4674-1C47-904BA8E45FAA">023714A4-0968-4674-1C47-904BA8E45FAA</oc:propid>
+          <oc:var_label type="nominal">Anatomy</oc:var_label>
+          <oc:show_val>Mandible</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="F07418DB-C26F-44A1-B67F-3ADD850A05DA" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0079">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has anatomical identification</oc:label>
+              <oc:targetLink localType="property" localID="023714A4-0968-4674-1C47-904BA8E45FAA" localURI="http://opencontext.org/properties/023714A4-0968-4674-1C47-904BA8E45FAA" href="http://purl.obolibrary.org/obo/UBERON_0001684">
+                <oc:vocabulary href="http://uberon.org">UBERON (Uber Anatomy Ontology)</oc:vocabulary>
+                <oc:label>mandible</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2B555A34-CB9B-4943-BDD5-2C20659E9C92</arch:variableID>
+          <arch:valueID>778DE550-CB37-4B16-4C4B-3B2D6BE1B4F8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/86D285A4-8456-4A86-5A17-ED318170BDEA">86D285A4-8456-4A86-5A17-ED318170BDEA</oc:propid>
+          <oc:var_label type="nominal">Part</oc:var_label>
+          <oc:show_val>Front of jaw</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>00E89AB9-63DF-4127-11E1-8D6CB6B6BB3C</arch:variableID>
+          <arch:valueID>ECB200E9-8727-4975-F62F-11416402E7C8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/71507884-4118-44C8-2785-14DA59C2C36E">71507884-4118-44C8-2785-14DA59C2C36E</oc:propid>
+          <oc:var_label type="nominal">Common Name</oc:var_label>
+          <oc:show_val>Sheep</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C4022836-C50C-4B60-981A-055B0896C77D</arch:variableID>
+          <arch:valueID>2C764B1D-06CE-44B7-D720-CB0CA55E7B2C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/46995FC8-53EC-4420-B253-BB6360668AF7">46995FC8-53EC-4420-B253-BB6360668AF7</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>Ovis aries</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="C4022836-C50C-4B60-981A-055B0896C77D" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
+              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
+              <oc:label>Has Biological Taxonomy</oc:label>
+              <oc:targetLink localType="property" localID="46995FC8-53EC-4420-B253-BB6360668AF7" localURI="http://opencontext.org/properties/46995FC8-53EC-4420-B253-BB6360668AF7" href="http://eol.org/pages/311906">
+                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
+                <oc:label>Ovis aries Linnaeus, 1758 </oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7B788959-EE36-4BBD-E152-1759E9AFC18C</arch:variableID>
+          <arch:integer>1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/E0C384D0-7421-4C11-6B14-0A2CF6F93B97">E0C384D0-7421-4C11-6B14-0A2CF6F93B97</oc:propid>
+          <oc:var_label type="integer">Multiplier</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AAAFD881-4ECE-4AB5-7D2F-B42F6FEDBF05</arch:variableID>
+          <arch:valueID>D2A4A678-312A-471F-51D8-11C802DC9730</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/09C4AF40-0D6A-4ABA-EBA2-025D22018FF0">09C4AF40-0D6A-4ABA-EBA2-025D22018FF0</oc:propid>
+          <oc:var_label type="nominal">Publication Data</oc:var_label>
+          <oc:show_val>Report submitted to Suffolk Archaeological Unit</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0CD2CAB7-36F1-4D57-73AC-133B3999B949</arch:variableID>
+          <arch:valueID>66C37349-7482-4427-CE8B-DF0BFBF4B70A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9FA01456-36FB-4492-A710-3F865FFBDF73">9FA01456-36FB-4492-A710-3F865FFBDF73</oc:propid>
+          <oc:var_label type="nominal">Date Range</oc:var_label>
+          <oc:show_val>Early Anglo-Saxon</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>667D6A44-5742-4D25-7622-83E7A58EB8D9</arch:variableID>
+          <arch:valueID>5BF8D1E7-4A70-4BCB-650D-C218CF2E604F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4B10B9AA-2457-40A8-A8DC-257F0E2B2F14">4B10B9AA-2457-40A8-A8DC-257F0E2B2F14</oc:propid>
+          <oc:var_label type="calendric">Last Update</oc:var_label>
+          <oc:show_val>Oct. 21, 2012</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>08195F8A-DA93-46FB-B746-DFEE3CDE6E53</arch:variableID>
+          <arch:valueID>3C42927D-0948-45B3-DDF6-0AC51CF1B29C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FCD06169-6016-4AAD-5263-C876E5519FFA">FCD06169-6016-4AAD-5263-C876E5519FFA</oc:propid>
+          <oc:var_label type="nominal">Side</oc:var_label>
+          <oc:show_val>Left</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B890D160-B161-4434-0270-189DB0EE5AE5</arch:variableID>
+          <arch:valueID>BBA48F7C-09DA-4284-ECA4-E570F89F16D0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CF12C5A2-7956-4669-D670-3822584FAEA6">CF12C5A2-7956-4669-D670-3822584FAEA6</oc:propid>
+          <oc:var_label type="nominal">Fragment</oc:var_label>
+          <oc:show_val>Half</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C04F693F-3751-4962-5656-4EDA791C88DD</arch:variableID>
+          <arch:valueID>017F80B7-4760-45F6-5919-6376A7640AFD</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9ED3AC1C-0BEF-4224-A56C-A7549EE5B7F5">9ED3AC1C-0BEF-4224-A56C-A7549EE5B7F5</oc:propid>
+          <oc:var_label type="alphanumeric">Dental Aging (after Grant 1982)</oc:var_label>
+          <oc:show_val>Deciduous lower 4th premolar = G  Deciduous lower 3rd premolar = W  Deciduous lower 2nd premolar = W</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">4639BA12-CDF5-452E-E9FE-F31543E6B937</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/4639BA12-CDF5-452E-E9FE-F31543E6B937" cite="contributor">
+            <oc:name>Pamela Crabtree</oc:name>
+            <oc:id>4639BA12-CDF5-452E-E9FE-F31543E6B937</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">The labels (with numeric values) for animal bone records come from the record number in the original source database.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/4A7C4A4A-FC66-411A-CDF4-870D153375F3">
+        <oc:name>United Kingdom</oc:name>
+        <oc:id>4A7C4A4A-FC66-411A-CDF4-870D153375F3</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9180AAFD-9AE6-4795-2D72-3719DCA765BC">
+        <oc:name>Suffolk</oc:name>
+        <oc:id>9180AAFD-9AE6-4795-2D72-3719DCA765BC</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/B3EAA455-B714-49AC-6A7C-63E3B0F211F4">
+        <oc:name>West Stow West</oc:name>
+        <oc:id>B3EAA455-B714-49AC-6A7C-63E3B0F211F4</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/866FD8AD-1455-4C44-E086-9350B1E4AED0">
+        <oc:name>Context 131</oc:name>
+        <oc:id>866FD8AD-1455-4C44-E086-9350B1E4AED0</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Context</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/building_space_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>West Stow West Zooarchaeology: Bone 604 (Animal Bone)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-24</dc:date>
+    <dc:subject>West Stow village</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:subject>mammal and bird remains</dc:subject>
+    <dc:subject>economy</dc:subject>
+    <dc:subject>Early Anglo-Saxon</dc:subject>
+    <dc:subject>zooarchaeology</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/4639BA12-CDF5-452E-E9FE-F31543E6B937">Pamela Crabtree</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/4639BA12-CDF5-452E-E9FE-F31543E6B937">Pamela Crabtree</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/F6D5351F-8E94-48B0-AEAD-0E0BFA6E7D24</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/59E7BFBC-2557-4FE4-FC14-284ED10D903D">West Stow West Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-02-24T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=West+Stow+West+Zooarchaeology%3A+Bone+604+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=West+Stow+village&amp;rft.subject=subsistence&amp;rft.subject=mammal+and+bird+remains&amp;rft.subject=economy&amp;rft.subject=Early+Anglo-Saxon&amp;rft.subject=zooarchaeology&amp;rft.contributor=Pamela+Crabtree&amp;rft.creator=Pamela+Crabtree&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FF6D5351F-8E94-48B0-AEAD-0E0BFA6E7D24</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>52.302</oc:geo_lat>
+      <oc:geo_long>0.668</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/B3EAA455-B714-49AC-6A7C-63E3B0F211F4">
+        <oc:source_name>West Stow West</oc:source_name>
+        <oc:source_id>B3EAA455-B714-49AC-6A7C-63E3B0F211F4</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-02-25T21:14:40-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/02/25 21:14:40</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(450 CE - 700 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>450</oc:time_start>
+          <oc:time_finish>700</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/F6D5351F-8E94-48B0-AEAD-0E0BFA6E7D24">
+            <oc:source_name>Bone 604</oc:source_name>
+            <oc:source_id>F6D5351F-8E94-48B0-AEAD-0E0BFA6E7D24</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-06T14:49:40-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

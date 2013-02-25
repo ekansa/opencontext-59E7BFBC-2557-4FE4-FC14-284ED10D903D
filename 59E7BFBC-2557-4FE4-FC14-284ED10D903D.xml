@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="59E7BFBC-2557-4FE4-FC14-284ED10D903D" ownedBy="59E7BFBC-2557-4FE4-FC14-284ED10D903D">
+  <arch:name>
+    <arch:string>West Stow West Zooarchaeology</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>West+Stow+West+Zooarchaeology</oc:queryVal>
+    <oc:rootPath>/United+Kingdom</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint> </oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:links>
+    <arch:docID type="person" info="Project Participant">4639BA12-CDF5-452E-E9FE-F31543E6B937</arch:docID>
+    <arch:docID type="person" info="Project Participant">84992341-6ABB-4948-D6A9-FA981AA87B99</arch:docID>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/4639BA12-CDF5-452E-E9FE-F31543E6B937">
+        <oc:name>Pamela Crabtree</oc:name>
+        <oc:id>4639BA12-CDF5-452E-E9FE-F31543E6B937</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/84992341-6ABB-4948-D6A9-FA981AA87B99">
+        <oc:name>Suffolk Archaeological Unit</oc:name>
+        <oc:id>84992341-6ABB-4948-D6A9-FA981AA87B99</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">West Stow, Suffolk County, UK Rescue excavations conducted at the site in advance of the construction of a new Visitor Centre</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
+        
+        <h4>Introduction</h4>
+        <p>These faunal remains were collected from excavations conducted in advance of the construction of a new Visitors' Centre at West Stow.
+        The excavations uncovered early Anglo-Saxon structures as well as a substantial quantity of animal remains. These are part of the same site
+        that was excavated by Stanley West from 1965-72. The new data suggest that the site was far larger than was originally thought.</p>
+        
+        <p>Data from West Stow West are also included in the following forthcoming publication: Crabtree, P. J. And Campana, D. V., 2013:
+        Secondary products, wealth, and trade in Middle Saxon England. In McCarty, S., and Arbuckle, B. S., eds. <em>Animals and Inequality
+        in the Ancient World</em>. Boulder: University of Colorado Press, in press.</p>
+        
+        <p>A preliminary report has been submitted to the Suffolk County Archaeological Unit, and we expect that the final publication will
+        be included in a future volume of East Anglian Archaeology.</p>
+        
+        <h4>Methodology</h4>
+        
+        <p>The methods used are the same as those that were used to describe the original West Stow faunal assemblage. These are described in detail
+        in Crabtree (1990, see below). Ribs and vertebrae (except for atlas, axis, and sacrum) were excluded from the calculations of species ratios
+        in the published data in order to make these results comparable to those from the original West Stow excavations.</p>
+        
+        <h4>Potential Applications of Data</h4>
+        
+        <p>These data add to the increasing body of evidence for early Anglo-Saxon animal husbandry and hunting.</p>
+
+
+        
+        <h4>Related Publications</h4>
+        <div resource="http://opencontext.org/subjects/B3EAA455-B714-49AC-6A7C-63E3B0F211F4">
+            
+            <div id="pub-2012-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2012-1"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Book" resource="#pub-2012-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Crabtree, P.</p>
+                        <div>
+                            <div class="pub-date">2012</div>
+                            <div class="ref-title-pub">Middle Saxon Animal Husbandry in East Anglia. <span class="collection-title">East Anglian Archaeology</span> 143.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="bibo:uri" href="http://www.worldcat.org/oclc/800634424">WorldCat</a>]
+                    </div>
+                </div>
+            </div>
+            
+            <div id="pub-1990-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-1990-1"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Book" resource="#pub-1990-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Crabtree, P.</p>
+                        <div>
+                            <div class="pub-date">1990</div>
+                            <div class="ref-title-pub">West Stow: Early Anglo-Saxon Animal Husbandry. <span class="collection-title">East Anglian Archaeology</span> 47.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                         [<a rel="bibo:uri" href="http://www.worldcat.org/oclc/225014154">WorldCat</a>]
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+        </div>    
+        
+<h5>Image Credit</h5>
+<p class="muted">Credit for this project's illustrative image belongs to Dick Penn via <a href="http://www.flickr.com/photos/dickpenn/5588606751">Flickr</a> (CC-BY license)</p>
+    </div>
+        </div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>West Stow West Zooarchaeology: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-24</dc:date>
+    <dc:subject>West Stow village</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:subject>mammal and bird remains</dc:subject>
+    <dc:subject>economy</dc:subject>
+    <dc:subject>Early Anglo-Saxon</dc:subject>
+    <dc:subject>zooarchaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/4639BA12-CDF5-452E-E9FE-F31543E6B937">Pamela Crabtree</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/59E7BFBC-2557-4FE4-FC14-284ED10D903D</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/59E7BFBC-2557-4FE4-FC14-284ED10D903D">West Stow West Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-02-24T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=West+Stow+West+Zooarchaeology%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=West+Stow+village&amp;rft.subject=subsistence&amp;rft.subject=mammal+and+bird+remains&amp;rft.subject=economy&amp;rft.subject=Early+Anglo-Saxon&amp;rft.subject=zooarchaeology&amp;rft.creator=Pamela+Crabtree&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F59E7BFBC-2557-4FE4-FC14-284ED10D903D</oc:coins>
+  </oc:metadata>
+</arch:project>
